@@ -1,0 +1,10 @@
+base.pkg=com.cerebrumx
+application.activity=com.zoontek.rnbootsplash.RNBootSplashActivity
+browser.name=null
+platform.name=Android
+device.name=Android
+platform.version=9
+explicit.wait=10
+implicit.wait=10
+appium.server.port=4723
+application.path=C:\\Users\\Dell\\eclipse-workspace\\super_admin\\Appium\\cerebrumxProject\\src\\test\\resources\\app\\app-release (5).apk

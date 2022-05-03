@@ -1,0 +1,55 @@
+INFO    2021-11-23 08:37:17,114 [main] base.TestBase  -Appium server started
+INFO    2021-11-23 08:37:17,352 [main] base.TestBase  -Appium server started
+INFO    2021-11-23 08:39:38,168 [main] base.TestBase  -Appium server started
+INFO    2021-11-23 08:40:32,494 [main] base.TestBase  -Appium server started
+INFO    2021-11-23 08:59:47,728 [main] base.TestBase  -Appium server started
+INFO    2021-11-23 09:03:27,320 [main] base.TestBase  -Appium server started
+INFO    2021-11-23 09:03:27,341 [main] base.TestBase  -Android_cerebrumx_properties properties file loaded !!!
+INFO    2021-11-23 09:06:36,229 [main] base.TestBase  -Appium server started
+INFO    2021-11-23 09:06:36,249 [main] base.TestBase  -Android_cerebrumx_properties properties file loaded !!!
+INFO    2021-11-23 09:08:37,567 [main] base.TestBase  -Appium server started
+INFO    2021-11-23 09:08:37,583 [main] base.TestBase  -Android_cerebrumx_properties properties file loaded !!!
+INFO    2021-11-23 16:04:31,412 [main] base.TestBase  -Appium server started
+INFO    2021-11-23 16:04:31,426 [main] base.TestBase  -Android_cerebrumx_properties properties file loaded !!!
+INFO    2021-11-23 16:04:48,551 [main] base.TestBase  -Test case execution completed
+INFO    2021-11-23 16:04:48,617 [main] base.TestBase  -Appium server stopped !!!
+INFO    2021-11-23 16:05:42,986 [main] base.TestBase  -Appium server started
+INFO    2021-11-23 16:05:43,000 [main] base.TestBase  -Android_cerebrumx_properties properties file loaded !!!
+INFO    2021-11-23 16:06:41,373 [main] base.TestBase  -Appium server started
+INFO    2021-11-23 16:06:41,388 [main] base.TestBase  -Android_cerebrumx_properties properties file loaded !!!
+INFO    2021-11-23 16:07:27,714 [main] base.TestBase  -Appium server started
+INFO    2021-11-23 16:07:27,731 [main] base.TestBase  -Android_cerebrumx_properties properties file loaded !!!
+INFO    2021-11-23 16:07:43,908 [main] base.TestBase  -Test case execution completed
+INFO    2021-11-23 16:07:43,971 [main] base.TestBase  -Appium server stopped !!!
+INFO    2021-11-23 16:18:29,680 [main] base.TestBase  -Appium server started
+INFO    2021-11-23 16:18:29,694 [main] base.TestBase  -Android_cerebrumx_properties properties file loaded !!!
+INFO    2021-11-23 16:18:44,303 [main] base.TestBase  -Test case execution completed
+INFO    2021-11-23 16:18:44,358 [main] base.TestBase  -Appium server stopped !!!
+INFO    2021-11-23 16:20:03,676 [main] base.TestBase  -Appium server started
+INFO    2021-11-23 16:20:03,690 [main] base.TestBase  -Android_cerebrumx_properties properties file loaded !!!
+INFO    2021-11-23 16:20:18,163 [main] base.TestBase  -Test case execution completed
+INFO    2021-11-23 16:20:18,219 [main] base.TestBase  -Appium server stopped !!!
+INFO    2021-12-14 13:53:02,172 [main] base.TestBase  -Appium server started
+INFO    2021-12-14 13:53:02,223 [main] base.TestBase  -Android_cerebrumx_properties properties file loaded !!!
+INFO    2021-12-14 13:53:28,372 [main] base.TestBase  -Test case execution completed
+INFO    2021-12-14 13:53:28,372 [main] base.TestBase  -Appium server stopped !!!
+INFO    2021-12-14 13:54:20,246 [main] base.TestBase  -Appium server started
+INFO    2021-12-14 13:54:20,266 [main] base.TestBase  -Android_cerebrumx_properties properties file loaded !!!
+INFO    2021-12-14 13:54:38,467 [main] base.TestBase  -Test case execution completed
+INFO    2021-12-14 13:54:38,467 [main] base.TestBase  -Appium server stopped !!!
+INFO    2021-12-14 13:54:57,904 [main] base.TestBase  -Appium server started
+INFO    2021-12-14 13:54:57,926 [main] base.TestBase  -Android_cerebrumx_properties properties file loaded !!!
+INFO    2021-12-14 13:55:16,429 [main] base.TestBase  -Test case execution completed
+INFO    2021-12-14 13:55:16,429 [main] base.TestBase  -Appium server stopped !!!
+INFO    2021-12-14 13:56:56,255 [main] base.TestBase  -Appium server started
+INFO    2021-12-14 13:56:56,275 [main] base.TestBase  -Android_cerebrumx_properties properties file loaded !!!
+INFO    2021-12-14 13:57:12,703 [main] base.TestBase  -Test case execution completed
+INFO    2021-12-14 13:57:12,703 [main] base.TestBase  -Appium server stopped !!!
+INFO    2021-12-14 13:58:40,386 [main] base.TestBase  -Appium server started
+INFO    2021-12-14 13:58:40,419 [main] base.TestBase  -Android_cerebrumx_properties properties file loaded !!!
+INFO    2021-12-14 13:58:58,856 [main] base.TestBase  -Test case execution completed
+INFO    2021-12-14 13:58:58,922 [main] base.TestBase  -Appium server stopped !!!
+INFO    2021-12-14 13:59:36,610 [main] base.TestBase  -Appium server started
+INFO    2021-12-14 13:59:36,630 [main] base.TestBase  -Android_cerebrumx_properties properties file loaded !!!
+INFO    2021-12-14 13:59:53,894 [main] base.TestBase  -Test case execution completed
+INFO    2021-12-14 13:59:53,894 [main] base.TestBase  -Appium server stopped !!!
